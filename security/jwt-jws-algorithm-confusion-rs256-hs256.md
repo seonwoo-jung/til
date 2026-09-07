@@ -4,6 +4,7 @@
 > **Secondary:** RFC 7519 (JWT) / RFC 7518 (JWA)
 > **Date:** 2026-09-07
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/rs256-hs256-algorithm-confusion
 
 ## 왜 봤나
 
