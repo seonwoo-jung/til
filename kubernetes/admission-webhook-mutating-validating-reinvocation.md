@@ -4,6 +4,7 @@
 > **Secondary:** 없음
 > **Date:** 2026-09-09
 > **Status:** draft
+> 블로그: https://velog.io/@jungseonw00/admission-webhook-reinvocation-idempotency
 
 ## 왜 봤나
 
